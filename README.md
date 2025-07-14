@@ -2,6 +2,9 @@
 
 Este projeto apresenta um **ChatBot simples para interface web**, desenvolvido com **HTML**, **CSS** e **JavaScript puro**. A aplicação permite ao usuário digitar mensagens e receber respostas automáticas baseadas em regras simples de palavras-chave.
 
+### Link para teste
+https://claramikaelly-ifpi.github.io/Chat-Bot/
+
 ## 👩‍💻 Autora
 
 - **Clara Mikaelly Veras da Costa**
